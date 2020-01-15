@@ -163,6 +163,8 @@ header #logotipo {
 	position: relative;
 	background: url("../img/banner.jpg") no-repeat;
 	background-position: 0px -100px;
+	background-size: 100%;
+	background-attachment: fixed;
 	top: -130px;
 }
 #banner h1 {
